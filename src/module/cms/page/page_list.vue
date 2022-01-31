@@ -46,6 +46,7 @@
   </div>
 </template>
 
+
 <script>
   import * as cmsApi from '../api/cms'
   export default {
